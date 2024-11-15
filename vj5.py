@@ -26,3 +26,6 @@ if __name__ == "__main__":
     except ValueError:
         print("unesena vrijednost nije broj.")
 
+        print("ovo je slučajno dodana skripta!")
+        
+
